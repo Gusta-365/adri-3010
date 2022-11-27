@@ -3,11 +3,11 @@ body{
 }
 .contenedor{
 	border: 10px solid #c30;
-	height: 650px;
+	height: 800px;
 	margin: 0 auto;
 	overflow: hidden;
 	position: relative;
-	width: 900px;
+	width: 1000px;
 }
 .libro{
 	background-image: url(../../assets/img/libro.jpeg);
